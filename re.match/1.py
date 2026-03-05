@@ -1,0 +1,1 @@
+print(re.match(r"Python", "Python is cool"))
