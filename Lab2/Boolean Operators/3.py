@@ -1,0 +1,1 @@
+print((a > 5 or b < 0) and not (b == 10))  # True
