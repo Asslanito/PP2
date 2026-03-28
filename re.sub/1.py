@@ -1,0 +1,1 @@
+print(re.sub(r"\d", "NUMBER", "Item 1, Item 2"))
