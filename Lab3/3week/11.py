@@ -7,7 +7,7 @@ class Pair:
         return Pair(self.a + other.a, self.b + other.b)
 
 
-# Ввод четырёх чисел
+
 a1, b1, a2, b2 = map(int, input().split())
 
 p1 = Pair(a1, b1)
